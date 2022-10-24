@@ -1,2 +1,2 @@
 # loops_python
-Treating loops in python to build some shapes
+Treating loops in python to build some shapes. 
