@@ -1,5 +1,6 @@
 # Using loops to draw Designs
 import turtle
+from 
 
 # Defining the screen
 wn = turtle.Screen()
@@ -16,7 +17,6 @@ for x in range(4):
 for oct in range(8):
     turtle.forward(100)
     turtle.right(45)
-
 
 
 # Main loop
